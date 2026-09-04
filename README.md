@@ -1,6 +1,6 @@
 # SizeFixer Privacy Policy
 
-**Last Updated: September 1, 2026**
+**Last Updated: September 4, 2026**
 
 **Languages:** [العربية](#العربية) · [Dansk](#dansk) · [Deutsch](#deutsch) · [English](#english) · [Español](#español) · [Français](#français) · [Bahasa Indonesia](#bahasa-indonesia) · [Italiano](#italiano) · [日本語](#日本語) · [한국어](#한국어) · [Norsk bokmål](#norsk-bokmål) · [Nederlands](#nederlands) · [Polski](#polski) · [Português (Brasil)](#português-brasil) · [Svenska](#svenska) · [ภาษาไทย](#ภาษาไทย) · [Tiếng Việt](#tiếng-việt) · [简体中文](#简体中文) · [繁體中文](#繁體中文)
 
@@ -33,9 +33,11 @@
 
 نستخدم **Aptabase**، وهي خدمة تُركّز على الخصوصية. قد نسجل عمليات تشغيل التطبيق، والميزات التي تستخدمها، وعدد العناصر المستوردة، وما إذا كانت المعالجة أو التصدير قد نجحت، والتفاعلات مع شاشة الدفع، ونتائج الشراء والاستعادة.
 
-لا نرسل الصور أو محتوى الصور أو أسماء الملفات أو النص المُتعرَّف عليه في الصور أو محتوى الرموز الشريطية أو رموز QR أو الأسماء أو عناوين البريد الإلكتروني أو معرّفات الإعلانات أو النص الحر.
+لا نرسل الصور أو محتوى الصور أو أسماء الملفات أو النص المُتعرَّف عليه في الصور أو محتوى الرموز الشريطية أو رموز QR أو الأسماء أو عناوين البريد الإلكتروني أو معرّفات الإعلانات على الجهاز (مثل IDFA) أو النص الحر.
 
 قد يتلقى Aptabase معلومات تقنية أساسية يوفّرها SDK الخاص به، مثل معرّف جلسة مؤقت وإصدار التطبيق والنظام وطراز الجهاز واللغة/المنطقة. وتعالج خدمته عنوان IP و User-Agent مؤقتًا لتوليد موقع تقريبي ومعرّف مستعار يتغير يوميًا. تُعالَج بيانات التحليلات في منطقة الاتحاد الأوروبي التابعة لـ Aptabase وقد تُحفظ لمدة تصل إلى خمس سنوات. راجع [سياسة خصوصية Aptabase](https://aptabase.com/legal/privacy).
+
+إذا قمت بتثبيت التطبيق بعد النقر على إعلان في App Store، فقد تُعيد واجهة الإسناد الرسمية من Apple معلومات المصدر مثل الحملة الإعلانية والكلمة المفتاحية والبلد أو المنطقة. نسجّل هذه المعرّفات الرقمية المجهولة مع أحداث الشراء لقياس فعالية الإعلانات فقط، ولا يمكن ربط أي من هذه الإحصاءات بشخصك.
 
 ### 5. الإعلانات والتتبع والحسابات
 
@@ -76,9 +78,11 @@ Når du eksporterer, kan SizeFixer fjerne skjulte metadata, f.eks. GPS og kamera
 
 Vi bruger **Aptabase**, en tjeneste med fokus på privatliv. Vi kan registrere appstarter, hvilke funktioner du bruger, hvor mange elementer der blev importeret, om behandling eller eksport lykkedes, interaktioner med betalingsvæggen samt resultatet af køb og gendannelser.
 
-Vi sender **ikke** fotos, billedindhold, filnavne, tekst genkendt i billeder, indhold af stregkoder eller QR-koder, navne, e-mailadresser, reklame-id'er eller fritekst.
+Vi sender **ikke** fotos, billedindhold, filnavne, tekst genkendt i billeder, indhold af stregkoder eller QR-koder, navne, e-mailadresser, enhedsreklame-id'er (f.eks. IDFA) eller fritekst.
 
 Aptabase kan modtage grundlæggende tekniske oplysninger fra sin SDK, f.eks. et midlertidigt sessions-id, app- og systemversion, enhedsmodel samt sprog/region. Tjenesten behandler midlertidigt IP-adresse og User-Agent for at generere en grov placering og et dagligt skiftende pseudonymt id. Analysedata behandles i Aptabases EU-region og kan opbevares i op til fem år. Se [Aptabases privatlivspolitik](https://aptabase.com/legal/privacy).
+
+Hvis du installerer appen, efter at du har trykket på en App Store-reklame, kan Apples officielle attribueringsgrænseflade returnere kildeoplysninger, f.eks. reklamekampagne, søgeord samt land eller region. Vi registrerer disse anonyme numeriske id'er sammen med købshændelser, udelukkende for at forstå reklamernes effekt; ingen af disse statistikker kan kobles til dig.
 
 ### 5. Reklamer, sporing og konti
 
@@ -119,9 +123,11 @@ Beim Export kann SizeFixer versteckte Metadaten wie GPS und Kamera-EXIF aus den 
 
 Wir verwenden **Aptabase**, einen datenschutzorientierten Dienst. Erfasst werden können App-Starts, die genutzten Funktionen, die Anzahl importierter Elemente, ob Verarbeitung oder Export erfolgreich waren, Interaktionen mit der Paywall sowie das Ergebnis von Käufen und Wiederherstellungen.
 
-Wir senden keine Fotos, Bildinhalte, Dateinamen, in Bildern erkannten Text, Barcode- oder QR-Code-Inhalte, Namen, E-Mail-Adressen, Werbekennungen oder Freitexte.
+Wir senden keine Fotos, Bildinhalte, Dateinamen, in Bildern erkannten Text, Barcode- oder QR-Code-Inhalte, Namen, E-Mail-Adressen, Werbekennungen des Geräts (z. B. die IDFA) oder Freitexte.
 
 Das Aptabase-SDK kann technische Basisinformationen wie eine temporäre Sitzungs-ID, App- und Systemversion, Gerätemodell sowie Sprache/Region übermitteln. Der Dienst verarbeitet IP-Adresse und User-Agent vorübergehend, um eine ungefähre Region und eine täglich wechselnde pseudonyme Kennung zu erzeugen. Die Daten werden in der EU-Region von Aptabase verarbeitet und können bis zu fünf Jahre gespeichert werden. Siehe [Aptabase-Datenschutzrichtlinie](https://aptabase.com/legal/privacy).
+
+Wenn Sie die App nach dem Antippen einer App Store-Werbung installieren, liefert Apples offizielle Attributions-Schnittstelle Quellenangaben wie Werbekampagne, Keyword sowie Land oder Region. Wir erfassen diese anonymen numerischen Kennungen zusammen mit Kaufereignissen, ausschließlich um die Wirkung unserer Werbung zu verstehen; keine dieser Statistiken kann Ihnen zugeordnet werden.
 
 ### 5. Werbung, Tracking und Konten
 
@@ -164,9 +170,11 @@ When you export, SizeFixer may remove hidden metadata, such as GPS and camera EX
 
 We use **Aptabase** for privacy-focused analytics. We may record app launches, which features you use, how many items were imported, whether processing or export succeeded, paywall interactions, and purchase and restore outcomes.
 
-We do **not** send photos, image content, file names, text recognized in images, barcode or QR-code contents, names, email addresses, advertising identifiers, or free-form text.
+We do **not** send photos, image content, file names, text recognized in images, barcode or QR-code contents, names, email addresses, device advertising identifiers (such as IDFA), or free-form text.
 
 Aptabase may receive basic technical information supplied by its SDK, such as a temporary session ID, app and system version, device model, and language/region. Its service temporarily processes IP address and User-Agent to generate coarse location and a daily-changing pseudonymous identifier. Analytics is processed in Aptabase's European Union region and may be retained for up to five years. See the [Aptabase Privacy Policy](https://aptabase.com/legal/privacy).
+
+If you install the App after tapping an App Store ad, Apple's official attribution interface may return source details such as the ad campaign, keyword, and country or region. We record these anonymous numeric identifiers together with purchase events, solely to understand advertising performance; none of these statistics can be linked to you.
 
 ### 5. Advertising, Tracking, and Accounts
 
@@ -209,9 +217,11 @@ Al exportar, SizeFixer puede eliminar metadatos ocultos, como GPS y EXIF de cám
 
 Usamos **Aptabase**, un servicio centrado en la privacidad. Podemos registrar aperturas de la App, qué funciones usas, cuántos elementos se importaron, si el procesamiento o la exportación se completaron, las interacciones con el muro de pago y el resultado de compras y restauraciones.
 
-No enviamos fotos, contenido de imagen, nombres de archivo, texto reconocido en imágenes, contenido de códigos de barras o QR, nombres, correos, identificadores publicitarios ni texto libre.
+No enviamos fotos, contenido de imagen, nombres de archivo, texto reconocido en imágenes, contenido de códigos de barras o QR, nombres, correos, identificadores publicitarios del dispositivo (como el IDFA) ni texto libre.
 
 El SDK de Aptabase puede incluir información técnica básica, como ID temporal de sesión, versiones de la App y del sistema, modelo del dispositivo e idioma/región. El servicio procesa temporalmente IP y User-Agent para generar una región aproximada y un identificador seudónimo que cambia a diario. Los datos se procesan en la región de la Unión Europea de Aptabase y pueden conservarse hasta cinco años. Consulta la [Política de Privacidad de Aptabase](https://aptabase.com/legal/privacy).
+
+Si instalas la App después de tocar un anuncio del App Store, la interfaz de atribución oficial de Apple puede devolver detalles de origen como la campaña publicitaria, la palabra clave y el país o región. Registramos estos identificadores numéricos anónimos junto con los eventos de compra, únicamente para conocer el rendimiento publicitario; ninguna de estas estadísticas puede vincularse a ti.
 
 ### 5. Publicidad, seguimiento y cuentas
 
@@ -254,9 +264,11 @@ Toute compression, conversion, mise à l'échelle et recadrage est effectué loc
 
 Nous utilisons **Aptabase**, un service axé sur la confidentialité. Nous pouvons enregistrer les lancements de l'App, les fonctions utilisées, le nombre d'éléments importés, la réussite d'un traitement ou d'une exportation, les interactions avec le paywall, ainsi que le résultat des achats et des restaurations.
 
-Nous n'envoyons ni photos, ni contenu d'image, ni noms de fichiers, ni texte reconnu dans les images, ni contenu de codes-barres ou QR, ni nom, ni e-mail, ni identifiant publicitaire, ni texte libre.
+Nous n'envoyons ni photos, ni contenu d'image, ni noms de fichiers, ni texte reconnu dans les images, ni contenu de codes-barres ou QR, ni nom, ni e-mail, ni identifiant publicitaire de l'appareil (comme l'IDFA), ni texte libre.
 
 Le SDK Aptabase peut joindre des informations techniques de base : ID temporaire de session, versions de l'App et du système, modèle de l'appareil et langue/région. Le service traite temporairement l'IP et le User-Agent pour produire une région approximative et un identifiant pseudonyme changeant chaque jour. Les données sont traitées dans la région Union européenne d'Aptabase et peuvent être conservées jusqu'à cinq ans. Consultez la [Politique de confidentialité d'Aptabase](https://aptabase.com/legal/privacy).
+
+Si vous installez l'App après avoir touché une publicité App Store, l'interface d'attribution officielle d'Apple peut renvoyer des informations de source telles que la campagne publicitaire, le mot-clé et le pays ou la région. Nous enregistrons ces identifiants numériques anonymes avec les événements d'achat, uniquement pour mesurer l'efficacité publicitaire ; aucune de ces statistiques ne peut vous être associée.
 
 ### 5. Publicité, suivi et comptes
 
@@ -299,9 +311,11 @@ Saat mengekspor, SizeFixer dapat menghapus metadata tersembunyi, seperti GPS dan
 
 Kami menggunakan **Aptabase**, layanan analitik yang berfokus pada privasi. Kami dapat mencatat peluncuran aplikasi, fitur yang Anda gunakan, jumlah item yang diimpor, keberhasilan pemrosesan atau ekspor, interaksi paywall, serta hasil pembelian dan pemulihan.
 
-Kami tidak mengirim foto, konten gambar, nama file, teks yang dikenali dalam gambar, isi barcode atau kode QR, nama, alamat email, ID iklan, atau teks bebas.
+Kami tidak mengirim foto, konten gambar, nama file, teks yang dikenali dalam gambar, isi barcode atau kode QR, nama, alamat email, ID iklan perangkat (seperti IDFA), atau teks bebas.
 
 SDK Aptabase dapat menyertakan informasi teknis dasar, seperti ID sesi sementara, versi aplikasi dan sistem, model perangkat, serta bahasa/wilayah. Layanan ini memproses alamat IP dan User-Agent sementara untuk menghasilkan lokasi kasar dan ID pseudonim yang berubah setiap hari. Data diproses di wilayah Uni Eropa Aptabase dan dapat disimpan hingga lima tahun. Lihat [Kebijakan Privasi Aptabase](https://aptabase.com/legal/privacy).
+
+Jika Anda menginstal aplikasi setelah mengetuk iklan App Store, antarmuka atribusi resmi Apple dapat mengembalikan informasi sumber seperti kampanye iklan, kata kunci, serta negara atau wilayah. Kami mencatat pengenal numerik anonim ini bersama peristiwa pembelian, semata-mata untuk memahami performa iklan; tidak ada statistik ini yang dapat ditautkan kepada Anda.
 
 ### 5. Iklan, pelacakan, dan akun
 
@@ -344,9 +358,11 @@ Quando esporti, SizeFixer può rimuovere metadati nascosti, come GPS ed EXIF del
 
 Utilizziamo **Aptabase**, un servizio attento alla privacy. Possiamo registrare gli avvii dell'App, le funzioni che usi, quanti elementi sono stati importati, se l'elaborazione o l'esportazione sono riuscite, le interazioni con il paywall e l'esito di acquisti e ripristini.
 
-Non inviamo foto, contenuto delle immagini, nomi di file, testo riconosciuto nelle immagini, contenuto di codici a barre o QR, nomi, indirizzi email, identificatori pubblicitari né testo libero.
+Non inviamo foto, contenuto delle immagini, nomi di file, testo riconosciuto nelle immagini, contenuto di codici a barre o QR, nomi, indirizzi email, identificatori pubblicitari del dispositivo (come l'IDFA) né testo libero.
 
 Aptabase può ricevere informazioni tecniche di base fornite dal suo SDK, come un ID di sessione temporaneo, la versione dell'App e del sistema, il modello del dispositivo e la lingua/regione. Il servizio elabora temporaneamente indirizzo IP e User-Agent per generare una posizione approssimativa e un identificatore pseudonimo che cambia ogni giorno. I dati analitici sono elaborati nella regione dell'Unione Europea di Aptabase e possono essere conservati fino a cinque anni. Consulta l'[informativa sulla privacy di Aptabase](https://aptabase.com/legal/privacy).
+
+Se installi l'App dopo aver toccato una pubblicità dell'App Store, l'interfaccia di attribuzione ufficiale di Apple può restituire informazioni sulla fonte, come la campagna pubblicitaria, la parola chiave e il paese o area geografica. Registriamo questi identificatori numerici anonimi insieme agli eventi di acquisto, solo per capire l'efficacia della pubblicità; nessuna di queste statistiche può essere collegata a te.
 
 ### 5. Pubblicità, tracciamento e account
 
@@ -387,9 +403,11 @@ Per domande su questa informativa puoi scrivere a **rtx3070757@gmail.com**.
 
 プライバシー重視の分析サービス **Aptabase** を使用します。アプリの起動、利用した機能、読み込んだ項目数、処理や書き出しの成否、ペイウォールの操作、購入と復元の結果を記録する場合があります。
 
-写真、画像の内容、ファイル名、画像内で認識された文字、バーコードや QR コードの内容、氏名、メールアドレス、広告識別子、自由入力テキストは送信しません。
+写真、画像の内容、ファイル名、画像内で認識された文字、バーコードや QR コードの内容、氏名、メールアドレス、端末の広告識別子（IDFA など）、自由入力テキストは送信しません。
 
 Aptabase の SDK は、一時的なセッション ID、アプリおよびシステムのバージョン、端末モデル、言語／地域などの基本技術情報を送信する場合があります。同サービスは IP アドレスと User-Agent を一時的に処理し、おおまかな地域と日替わりの仮名識別子を生成します。データは Aptabase の EU リージョンで処理され、最長 5 年間保持される場合があります。[Aptabase プライバシーポリシー](https://aptabase.com/legal/privacy)をご覧ください。
+
+App Store の広告をタップしてから本 App をインストールした場合、Apple の公式アトリビューション機能から、広告キャンペーンやキーワード、国・地域などのソース情報が返ることがあります。これらの匿名の数値 ID を購入イベントとともに記録するのは、広告の効果を把握するためのみです。いずれの統計も、お客様ご本人と結び付けることはできません。
 
 ### 5. 広告、追跡、アカウント
 
@@ -432,9 +450,11 @@ Aptabase の SDK は、一時的なセッション ID、アプリおよびシス
 
 개인정보 보호 중심의 **Aptabase**를 사용합니다. 앱 실행, 사용한 기능, 가져온 항목 수, 처리 또는 내보내기 성공 여부, 결제 화면 상호작용, 구매 및 복원 결과가 기록될 수 있습니다.
 
-사진, 이미지 내용, 파일 이름, 이미지에서 인식된 텍스트, 바코드나 QR 코드 내용, 이름, 이메일, 광고 식별자, 자유 입력 텍스트는 전송하지 않습니다.
+사진, 이미지 내용, 파일 이름, 이미지에서 인식된 텍스트, 바코드나 QR 코드 내용, 이름, 이메일, 기기의 광고 식별자(예: IDFA), 자유 입력 텍스트는 전송하지 않습니다.
 
 Aptabase SDK는 임시 세션 ID, 앱 및 시스템 버전, 기기 모델, 언어/지역 등 기본 기술 정보를 전송할 수 있습니다. 해당 서비스는 IP 주소와 User-Agent를 일시적으로 처리하여 대략적인 지역과 매일 변경되는 가명 식별자를 생성합니다. 데이터는 Aptabase의 EU 리전에서 처리되며 최대 5년간 보관될 수 있습니다. [Aptabase 개인정보 처리방침](https://aptabase.com/legal/privacy)을 참조하십시오.
+
+App Store 광고를 탭한 후 본 앱을 설치한 경우, Apple의 공식 어트리뷰션 인터페이스가 광고 캠페인, 키워드, 국가 또는 지역 등 소스 정보를 반환할 수 있습니다. 이러한 익명의 숫자 ID를 구매 이벤트와 함께 기록하는 것은 광고 효과를 파악하기 위함이며, 어떤 통계도 사용자 개인과 연결될 수 없습니다.
 
 ### 5. 광고, 추적 및 계정
 
@@ -477,9 +497,11 @@ Når du eksporterer, kan SizeFixer fjerne skjulte metadata, som GPS og kamera-EX
 
 Vi bruker **Aptabase**, en tjeneste med fokus på personvern. Vi kan registrere appstarter, hvilke funksjoner du bruker, hvor mange elementer som ble importert, om behandling eller eksport lyktes, interaksjoner med betalingsmuren samt resultatet av kjøp og gjenopprettinger.
 
-Vi sender **ikke** bilder, bildeinnhold, filnavn, tekst gjenkjent i bilder, innhold fra strekkoder eller QR-koder, navn, e-postadresser, annonseidentifikatorer eller fritekst.
+Vi sender **ikke** bilder, bildeinnhold, filnavn, tekst gjenkjent i bilder, innhold fra strekkoder eller QR-koder, navn, e-postadresser, annonseidentifikatorer på enhetsnivå (for eksempel IDFA) eller fritekst.
 
 Aptabase kan motta grunnleggende teknisk informasjon fra SDK-en sin, som et midlertidig økt-ID, app- og systemversjon, enhetsmodell samt språk/region. Tjenesten behandler midlertidig IP-adresse og User-Agent for å generere en grov plassering og en daglig endret pseudonym identifikator. Analysedata behandles i Aptabases EU-region og kan lagres i opptil fem år. Se [Aptabases personvernerklæring](https://aptabase.com/legal/privacy).
+
+Hvis du installerer appen etter å ha trykket på en App Store-reklame, kan Apples offisielle attribueringsgrensesnitt returnere kildeopplysninger, for eksempel reklamekampanje, søkeord samt land eller region. Vi registrerer disse anonyme numeriske identifikatorene sammen med kjøpshendelser, utelukkende for å forstå reklameeffekten; ingen av disse statistikkene kan knyttes til deg.
 
 ### 5. Reklame, sporing og kontoer
 
@@ -520,9 +542,11 @@ Bij het exporteren kan SizeFixer verborgen metadata, zoals GPS en camera-EXIF, u
 
 We gebruiken **Aptabase**, een dienst die privacy vooropstelt. We kunnen vastleggen hoe vaak de App wordt gestart, welke functies je gebruikt, hoeveel items zijn geïmporteerd, of verwerking of export is geslaagd, interacties met de betaalmuur, en het resultaat van aankopen en herstelbewerkingen.
 
-We versturen **geen** foto's, beeldinhoud, bestandsnamen, in afbeeldingen herkende tekst, inhoud van barcodes of QR-codes, namen, e-mailadressen, advertentie-ID's of vrije tekst.
+We versturen **geen** foto's, beeldinhoud, bestandsnamen, in afbeeldingen herkende tekst, inhoud van barcodes of QR-codes, namen, e-mailadressen, advertentie-ID's van het apparaat (zoals de IDFA) of vrije tekst.
 
 Aptabase kan basale technische informatie van zijn SDK ontvangen, zoals een tijdelijke sessie-ID, app- en systeemversie, apparaatmodel en taal/regio. De dienst verwerkt IP-adres en User-Agent tijdelijk om een grove locatie en een dagelijks wisselend pseudoniem ID te genereren. Analysegegevens worden verwerkt in de EU-regio van Aptabase en kunnen tot vijf jaar worden bewaard. Zie het [privacybeleid van Aptabase](https://aptabase.com/legal/privacy).
+
+Als je de App installeert nadat je op een App Store-advertentie hebt getikt, kan de officiële attributie-interface van Apple brongegevens teruggeven, zoals de advertentiecampagne, het zoekwoord en het land of de regio. We leggen deze anonieme numerieke id's samen met aankoopgebeurtenissen vast, uitsluitend om het effect van onze advertenties te begrijpen; geen van deze statistieken kan aan jou worden gekoppeld.
 
 ### 5. Advertenties, tracking en accounts
 
@@ -563,9 +587,11 @@ Podczas eksportu SizeFixer może usuwać z plików wyjściowych ukryte metadane,
 
 Korzystamy z **Aptabase**, usługi nastawionej na prywatność. Możemy rejestrować uruchomienia aplikacji, używane funkcje, liczbę zaimportowanych elementów, to, czy przetwarzanie lub eksport zakończyły się powodzeniem, interakcje z paywallem oraz wyniki zakupów i przywracania.
 
-**Nie** wysyłamy zdjęć, treści obrazów, nazw plików, tekstu rozpoznanego na obrazach, treści kodów kreskowych ani kodów QR, imion i nazwisk, adresów e-mail, identyfikatorów reklamowych ani tekstu dowolnego.
+**Nie** wysyłamy zdjęć, treści obrazów, nazw plików, tekstu rozpoznanego na obrazach, treści kodów kreskowych ani kodów QR, imion i nazwisk, adresów e-mail, identyfikatorów reklamowych urządzenia (takich jak IDFA) ani tekstu dowolnego.
 
 Aptabase może otrzymywać podstawowe informacje techniczne przekazywane przez jego SDK, takie jak tymczasowy identyfikator sesji, wersja aplikacji i systemu, model urządzenia oraz język/region. Usługa tymczasowo przetwarza adres IP i User-Agent, aby wygenerować przybliżoną lokalizację oraz codziennie zmieniany identyfikator pseudonimowy. Dane analityczne są przetwarzane w regionie Unii Europejskiej Aptabase i mogą być przechowywane do pięciu lat. Zobacz [Politykę prywatności Aptabase](https://aptabase.com/legal/privacy).
+
+Jeśli zainstalujesz aplikację po dotknięciu reklamy w App Store, oficjalny interfejs atrybucji Apple może zwrócić informacje o źródle, takie jak kampania reklamowa, słowo kluczowe oraz kraj lub region. Rejestrujemy te anonimowe identyfikatory numeryczne razem ze zdarzeniami zakupu, wyłącznie aby zrozumieć skuteczność reklam; żadnej z tych statystyk nie można powiązać z Twoją osobą.
 
 ### 5. Reklamy, śledzenie i konta
 
@@ -606,9 +632,11 @@ Ao exportar, o SizeFixer pode remover metadados ocultos, como GPS e EXIF da câm
 
 Usamos a **Aptabase**, um serviço focado em privacidade. Podemos registrar aberturas do App, quais recursos você usa, quantos itens foram importados, se o processamento ou a exportação tiveram êxito, interações com o paywall e o resultado de compras e restaurações.
 
-Não enviamos fotos, conteúdo de imagem, nomes de arquivo, texto reconhecido em imagens, conteúdo de código de barras ou QR, nomes, e-mails, identificadores publicitários nem texto livre.
+Não enviamos fotos, conteúdo de imagem, nomes de arquivo, texto reconhecido em imagens, conteúdo de código de barras ou QR, nomes, e-mails, identificadores publicitários do dispositivo (como o IDFA) nem texto livre.
 
 O SDK da Aptabase pode incluir informações técnicas básicas, como ID temporário de sessão, versões do App e do sistema, modelo do dispositivo e idioma/região. O serviço processa temporariamente IP e User-Agent para gerar uma região aproximada e um identificador pseudônimo que muda diariamente. Os dados são processados na região da União Europeia da Aptabase e podem ser conservados por até cinco anos. Consulte a [Política de Privacidade da Aptabase](https://aptabase.com/legal/privacy).
+
+Se você instalar o App depois de tocar em um anúncio do App Store, a interface oficial de atribuição da Apple pode retornar detalhes de origem, como campanha publicitária, palavra-chave e país ou região. Registramos esses identificadores numéricos anônimos junto com os eventos de compra, apenas para entender o desempenho dos anúncios; nenhuma dessas estatísticas pode ser vinculada a você.
 
 ### 5. Publicidade, rastreamento e contas
 
@@ -651,9 +679,11 @@ När du exporterar kan SizeFixer ta bort dold metadata, till exempel GPS och kam
 
 Vi använder **Aptabase**, en tjänst med fokus på integritet. Vi kan registrera appstarter, vilka funktioner du använder, hur många objekt som importerades, om bearbetning eller export lyckades, interaktioner med betalväggen samt resultatet av köp och återställningar.
 
-Vi skickar **inte** foton, bildinnehåll, filnamn, text som känns igen i bilder, innehåll i streckkoder eller QR-koder, namn, e-postadresser, annonsidentifierare eller fritext.
+Vi skickar **inte** foton, bildinnehåll, filnamn, text som känns igen i bilder, innehåll i streckkoder eller QR-koder, namn, e-postadresser, annonsidentifierare på enhetsnivå (till exempel IDFA) eller fritext.
 
 Aptabase kan ta emot grundläggande teknisk information från sin SDK, till exempel ett tillfälligt sessions-ID, app- och systemversion, enhetsmodell samt språk/region. Tjänsten bearbetar tillfälligt IP-adress och User-Agent för att skapa en ungefärlig plats och en dagligen ändrad pseudonym identifierare. Analysdata bearbetas i Aptabases EU-region och kan sparas i upp till fem år. Se [Aptabases integritetspolicy](https://aptabase.com/legal/privacy).
+
+Om du installerar appen efter att ha tryckt på en App Store-annons kan Apples officiella attribueringsgränssnitt returnera källinformation, till exempel annonskampanj, sökord samt land eller region. Vi registrerar dessa anonyma numeriska identifierare tillsammans med köphändelser, enbart för att förstå annonsernas effekt; ingen av dessa statistikker kan kopplas till dig.
 
 ### 5. Reklam, spårning och konton
 
@@ -694,9 +724,11 @@ Frågor om denna policy kan skickas till **rtx3070757@gmail.com**.
 
 เราใช้ **Aptabase** ซึ่งเป็นบริการวิเคราะห์ที่เน้นความเป็นส่วนตัว เราอาจบันทึกการเปิดแอป ฟีเจอร์ที่คุณใช้ จำนวนรายการที่นำเข้า ความสำเร็จของการประมวลผลหรือการส่งออก การโต้ตอบกับเพย์วอลล์ และผลลัพธ์ของการซื้อและการกู้คืน
 
-เราไม่ส่งรูปภาพ เนื้อหาของภาพ ชื่อไฟล์ ข้อความที่รู้จำจากภาพ เนื้อหาบาร์โค้ดหรือคิวอาร์โค้ด ชื่อ อีเมล ตัวระบุโฆษณา หรือข้อความอิสระ
+เราไม่ส่งรูปภาพ เนื้อหาของภาพ ชื่อไฟล์ ข้อความที่รู้จำจากภาพ เนื้อหาบาร์โค้ดหรือคิวอาร์โค้ด ชื่อ อีเมล ตัวระบุโฆษณาของอุปกรณ์ (เช่น IDFA) หรือข้อความอิสระ
 
 SDK ของ Aptabase อาจส่งข้อมูลเทคนิคพื้นฐาน เช่น รหัสเซสชันชั่วคราว เวอร์ชันของแอปและระบบ รุ่นอุปกรณ์ และภาษา/ภูมิภาค บริการจะประมวลผล IP และ User-Agent ชั่วคราวเพื่อสร้างตำแหน่งโดยประมาณและตัวระบุนามแฝงที่เปลี่ยนทุกวัน ข้อมูลถูกประมวลผลในภูมิภาคสหภาพยุโรปของ Aptabase และอาจถูกเก็บไว้ได้นานถึงห้าปี ดู [นโยบายความเป็นส่วนตัวของ Aptabase](https://aptabase.com/legal/privacy)
+
+หากคุณติดตั้งแอปหลังจากแตะโฆษณาใน App Store อินเทอร์เฟซการระบุแหล่งที่มาอย่างเป็นทางการของ Apple อาจส่งคืนข้อมูลแหล่งที่มา เช่น แคมเปญโฆษณา คำค้น และประเทศหรือภูมิภาค เราบันทึกรหัสตัวเลขที่ไม่ระบุตัวตนเหล่านี้พร้อมกับเหตุการณ์การซื้อ เพื่อทำความเข้าใจประสิทธิภาพของโฆษณาเท่านั้น และสถิติเหล่านี้ไม่สามารถเชื่อมโยงถึงตัวคุณได้
 
 ### 5. โฆษณา การติดตาม และบัญชี
 
@@ -739,9 +771,11 @@ Khi xuất, SizeFixer có thể xóa metadata ẩn, chẳng hạn như GPS và E
 
 Chúng tôi sử dụng **Aptabase**, dịch vụ phân tích chú trọng quyền riêng tư. Chúng tôi có thể ghi lại việc mở ứng dụng, tính năng bạn dùng, số mục đã nhập, việc xử lý hoặc xuất có thành công hay không, tương tác với paywall, cùng kết quả mua và khôi phục.
 
-Chúng tôi không gửi ảnh, nội dung hình ảnh, tên tệp, văn bản được nhận dạng trong ảnh, nội dung mã vạch hoặc mã QR, tên, email, ID quảng cáo hay văn bản tự do.
+Chúng tôi không gửi ảnh, nội dung hình ảnh, tên tệp, văn bản được nhận dạng trong ảnh, nội dung mã vạch hoặc mã QR, tên, email, ID quảng cáo của thiết bị (như IDFA) hay văn bản tự do.
 
 SDK Aptabase có thể kèm theo thông tin kỹ thuật cơ bản, chẳng hạn như ID phiên tạm thời, phiên bản ứng dụng và hệ thống, mẫu thiết bị, và ngôn ngữ/khu vực. Dịch vụ này xử lý tạm thời địa chỉ IP và User-Agent để tạo vị trí gần đúng và một ID bí danh thay đổi hằng ngày. Dữ liệu được xử lý tại khu vực Liên minh Châu Âu của Aptabase và có thể được lưu giữ tới năm năm. Xem [Chính sách quyền riêng tư của Aptabase](https://aptabase.com/legal/privacy).
+
+Nếu bạn cài đặt ứng dụng sau khi chạm vào quảng cáo trên App Store, giao diện phân bổ chính thức của Apple có thể trả về thông tin nguồn như chiến dịch quảng cáo, từ khóa và quốc gia hoặc khu vực. Chúng tôi ghi lại các mã số ẩn danh này cùng với sự kiện mua hàng, chỉ để hiểu hiệu quả quảng cáo; không có số liệu thống kê nào trong số này có thể liên kết đến bạn.
 
 ### 5. Quảng cáo, theo dõi và tài khoản
 
@@ -784,9 +818,11 @@ Gửi câu hỏi tới **rtx3070757@gmail.com**.
 
 我们使用注重隐私的 **Aptabase** 分析服务。可能记录应用启动、您使用的功能、导入的项目数量、一次处理或导出是否成功、付费墙交互，以及购买与恢复的结果。
 
-我们不会发送照片、图像内容、文件名、图像中识别出的文字、条码或二维码内容、姓名、电子邮箱、广告标识符或自由输入文本。
+我们不会发送照片、图像内容、文件名、图像中识别出的文字、条码或二维码内容、姓名、电子邮箱、设备广告标识符（如 IDFA）或自由输入文本。
 
 Aptabase SDK 可能附带临时会话标识符、应用和系统版本、设备型号、语言/地区等基础技术信息。其服务会临时处理 IP 地址和 User-Agent，用于生成粗略地区及每日变化的假名化标识符。分析数据在 Aptabase 欧盟区域处理，最长可能保留五年。详见 [Aptabase 隐私政策](https://aptabase.com/legal/privacy)。
+
+若您点击 App Store 广告后安装本应用，苹果官方归因接口会返回广告系列、关键词与国家或地区等来源信息。我们会将这些匿名编号与购买事件一起记录，仅用于了解广告效果；所有统计均无法关联到您个人。
 
 ### 5. 广告、跟踪与账户
 
@@ -829,9 +865,11 @@ Aptabase SDK 可能附带临时会话标识符、应用和系统版本、设备�
 
 我們使用注重私隱的 **Aptabase** 分析服務。可能記錄 App 啟動、您使用的功能、匯入的項目數量、一次處理或匯出是否成功、付費牆互動，以及購買與恢復的結果。
 
-我們不會傳送相片、影像內容、檔案名稱、影像中辨識出的文字、條碼或二維碼內容、姓名、電郵、廣告識別碼或自由輸入文字。
+我們不會傳送相片、影像內容、檔案名稱、影像中辨識出的文字、條碼或二維碼內容、姓名、電郵、裝置廣告識別碼（如 IDFA）或自由輸入文字。
 
 Aptabase SDK 可能附帶臨時工作階段識別碼、App 和系統版本、裝置型號、語言/地區等基本技術資料。其服務會暫時處理 IP 位址和 User-Agent，用於產生粗略地區及每日變化的假名識別碼。分析資料在 Aptabase 歐盟區域處理，最長可能保留五年。詳見 [Aptabase 私隱政策](https://aptabase.com/legal/privacy)。
+
+若您點擊 App Store 廣告後安裝本 App，蘋果官方歸因介面會傳回廣告系列、關鍵字與國家或地區等來源資訊。我們會將這些匿名編號與購買事件一起記錄，僅用於了解廣告效果；所有統計均無法關聯到您個人。
 
 ### 5. 廣告、追蹤與帳戶
 
